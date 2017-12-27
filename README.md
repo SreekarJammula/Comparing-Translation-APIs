@@ -1,4 +1,4 @@
-Comparing the Microsoft and Google translation APIs.
+#Comparing the Microsoft and Google translation APIs.
 In the fierce cloud market, both the big tech companies Microsoft and Google have introduced their translation API’s as services on their cloud platforms. So, I decided to try them both and make a comparison. In this small blog, I have tried comparing them on parameters such as ease of use, punctuations, accuracy and speed. 
 
 Let me discuss these parameters on a case by case basis. 
